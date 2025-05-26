@@ -6,7 +6,6 @@ if (spawn_count < spawn_amount) {
     if (global.level < 3) {
         tipo_inimigo = obj_mosquito;
     } else {
-        // A partir da wave 3, escolher aleatoriamente entre mosquito e mosca
         if (irandom(1) == 0) {
             tipo_inimigo = obj_mosquito;
         } else {
