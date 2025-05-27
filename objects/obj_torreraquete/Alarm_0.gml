@@ -3,6 +3,7 @@ if (instance_exists(tiro_inimigo)) {
     projetil.speed = 40;
     projetil.direction = point_direction(x, y, tiro_inimigo.x, tiro_inimigo.y);
     
+	audio_play_sound(snd_tiroraquete,3,false); 
     
     atirando = true;
     alarm[1] = 5; 

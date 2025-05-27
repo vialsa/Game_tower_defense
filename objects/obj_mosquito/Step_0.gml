@@ -19,6 +19,8 @@ if (dir >= 45 && dir < 135) {
     image_xscale = -0.1117397; 
 }
 
+audio_play_sound(snd_fly,1,false);
+audio_sound_gain(snd_fly, 0.0009, 0);
 
 x_anterior = x;
 y_anterior = y;
