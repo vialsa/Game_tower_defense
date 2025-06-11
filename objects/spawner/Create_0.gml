@@ -12,3 +12,10 @@ global.moeda = 100;
 global.vida = 100;
 
 global.game_over = false;
+
+btn_construir_x = 1300; // ajuste conforme necessário
+btn_construir_y = 5;
+btn_construir_largura = 1;
+btn_construir_altura = 1;
+
+global.menu_construir_aberto = false;
