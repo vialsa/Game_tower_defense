@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spt_torrespray",
-    "path":"sprites/spt_torrespray/spt_torrespray.yy",
+    "name":"spt_icontspray",
+    "path":"sprites/spt_icontspray/spt_icontspray.yy",
   },
   "spriteMaskId":null,
   "visible":true,

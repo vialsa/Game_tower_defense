@@ -1,3 +1,8 @@
+if(global.game_pause){
+    path_end();
+    exit;
+}
+
 if (!variable_instance_exists(id, "x_anterior")) {
     x_anterior = x;
     y_anterior = y;

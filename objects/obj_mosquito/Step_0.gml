@@ -1,3 +1,8 @@
+if(global.game_pause){
+    path_end();
+    exit;
+}
+
 if (!variable_instance_exists(id, "x_anterior")) {
     x_anterior = x;
     y_anterior = y;
@@ -19,11 +24,12 @@ if (dir >= 45 && dir < 135) {
     image_xscale = -0.1117397; 
 }
 
-audio_play_sound(snd_fly,1,false);
-audio_sound_gain(snd_fly, 0.0009, 0);
-
 x_anterior = x;
 y_anterior = y;
+
+
+audio_play_sound(snd_fly,1,false);
+audio_sound_gain(snd_fly, 0.0009, 0);
 
 if (hp <= 0) {
     global.moeda += 10; 

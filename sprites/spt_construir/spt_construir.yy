@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"botões",
-    "path":"folders/Sprites/ui/botões.yy",
+    "path":"folders/Sprites/botões.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

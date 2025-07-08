@@ -5,9 +5,9 @@ draw_set_color(c_white);
 draw_set_halign(fa_left);
 draw_set_valign(fa_top);
 
-draw_text(55,10,"VIDA: " + string(global.vida));
-draw_text(260,10,"MOEDAS: " + string(global.moeda));
-draw_text(660,10,"WAVE: " + string(global.level));
+draw_text(55,5, string(global.vida));
+draw_text(260,5, string(global.moeda));
+draw_text(660,5, string(global.level));
 
 draw_sprite_ext(spt_iconvida, 0, 10, 7, 0.1, 0.1, 0, c_white, 1);
 draw_sprite_ext(spt_iconmoeda, 0, 220, 7, 0.1, 0.1, 0, c_white, 1);

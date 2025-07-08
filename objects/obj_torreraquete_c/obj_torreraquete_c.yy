@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spt_torreraquete",
-    "path":"sprites/spt_torreraquete/spt_torreraquete.yy",
+    "name":"spt_icontraquete",
+    "path":"sprites/spt_icontraquete/spt_icontraquete.yy",
   },
   "spriteMaskId":null,
   "visible":true,
