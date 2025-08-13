@@ -1,3 +1,4 @@
+depth = y;
 if (atirando) {
     sprite_index = spt_torreraquete_atk;
     

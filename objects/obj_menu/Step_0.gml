@@ -40,4 +40,5 @@ for (var i = 0; i < array_length(menu); i++) {
 		}
 	}
 }
+
 margem = lerp(margem,20, .2);

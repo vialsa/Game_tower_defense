@@ -3,7 +3,7 @@ for (var i=0; i<array_length(menu); i++)
 	
 	var _cor = c_white;
 	
-	draw_set_font(fnt_menu)
+	draw_set_font(fnt_pixel)
 	var _altura = string_height("I") *1.5;
 	
 	var _margem =0;
