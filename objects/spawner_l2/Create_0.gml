@@ -1,7 +1,7 @@
 spawn_amount = 15;
 spawn_count = 0;
 spawn_rate = room_speed * 0.5;
-alarm[0] = spawn_rate;
+alarm[0] = -1;
 
 
 global.game_pause = false;
