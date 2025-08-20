@@ -4,12 +4,12 @@ if (spawn_count < spawn_amount) {
         var tipo_inimigo;
 
         if (global.level < 3) {
-            tipo_inimigo = obj_mosquito;
+            tipo_inimigo = obj_mosquitol2;
         } else {
             if (irandom(1) == 0) {
-                tipo_inimigo = obj_mosquito;
+                tipo_inimigo = obj_mosquitol2;
             } else {
-                tipo_inimigo = obj_mosca;
+                tipo_inimigo = obj_moscal2;
             }
         }
 

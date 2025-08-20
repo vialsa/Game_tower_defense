@@ -5,7 +5,7 @@ alarm[0] = -1;
 
 
 global.game_pause = false;
-instance_create_layer(1300, 700, "GUI", obj_wavebutton);
+instance_create_layer(1300, 700, "GUI", obj_wavebuttonl2);
 
 global.hp = 100;
 global.spd = 3; 

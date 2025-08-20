@@ -6,10 +6,13 @@
   "name":"obj_inimigosfraco",
   "overriddenProperties":[],
   "parent":{
-    "name":"inimigos",
-    "path":"folders/Objetos/inimigos.yy",
+    "name":"fraco",
+    "path":"folders/Objetos/inimigos/lvl1/fraco.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_mosca",
+    "path":"objects/obj_mosca/obj_mosca.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

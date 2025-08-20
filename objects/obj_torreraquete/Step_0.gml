@@ -1,3 +1,8 @@
+if(global.game_pause){
+    path_end();
+    exit;
+}
+
 depth = y;
 if (atirando) {
     sprite_index = spt_torreraquete_atk;

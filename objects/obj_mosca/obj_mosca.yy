@@ -12,7 +12,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"fraco",
-    "path":"folders/Objetos/inimigos/fraco.yy",
+    "path":"folders/Objetos/inimigos/lvl1/fraco.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -1,4 +1,4 @@
-if(instance_number(obj_mosquito) <=0){
+if(instance_number(obj_mosquitol2) <=0){
 
 spawn_count = 0;
 spawn_amount++;

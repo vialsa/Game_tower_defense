@@ -1,15 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"obj_tiroraquete",
+  "%Name":"obj_wavebuttonl2",
   "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_tiroraquete",
+  "name":"obj_wavebuttonl2",
   "overriddenProperties":[],
   "parent":{
-    "name":"torres tiro",
-    "path":"folders/Objetos/torres/torres tiro.yy",
+    "name":"Objetos",
+    "path":"folders/Objetos.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spt_tiroraquete",
-    "path":"sprites/spt_tiroraquete/spt_tiroraquete.yy",
+    "name":"spt_start",
+    "path":"sprites/spt_start/spt_start.yy",
   },
   "spriteMaskId":null,
   "visible":true,

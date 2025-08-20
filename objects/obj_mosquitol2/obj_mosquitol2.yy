@@ -1,6 +1,6 @@
 {
   "$GMObject":"",
-  "%Name":"obj_mosquito",
+  "%Name":"obj_mosquitol2",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
@@ -10,11 +10,11 @@
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_tirospray","path":"objects/obj_tirospray/obj_tirospray.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_mosquito",
+  "name":"obj_mosquitol2",
   "overriddenProperties":[],
   "parent":{
     "name":"fraco",
-    "path":"folders/Objetos/inimigos/lvl1/fraco.yy",
+    "path":"folders/Objetos/inimigos/lvl2/fraco.yy",
   },
   "parentObjectId":{
     "name":"obj_inimigosfraco",
